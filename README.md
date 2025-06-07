@@ -1,6 +1,6 @@
 # vita-ps4linkcontrols
 
-taiHEN plugin that allows to force preferred Remote Play button configuration
+taiHEN plugin that allows to force preferred Remote Play button configuration on 3.60, 3.65, 3.68 and 3.74. Versions 3.67 and 3.69-3.73 should (since they use the same offsets as on 3.65) also work - feel free to open an issue if you're on one of those versions and want to help. 
 
 ### Configuration
 
