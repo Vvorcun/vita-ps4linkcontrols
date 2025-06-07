@@ -127,6 +127,7 @@ int module_start(SceSize argc, const void *args)
 
     case 0x4bc536e4: // 3.65
     case 0x75CFBD26: // 3.68
+    case 0x0E75BD4A: // 3.74
         offsets[0] = 0x47d2c;
         offsets[1] = 0x4640c;
         offsets[2] = 0x45a88;
